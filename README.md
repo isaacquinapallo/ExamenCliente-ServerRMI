@@ -88,6 +88,7 @@ CMD ["java", "Test.Test"]
 Coloca tus capturas aquí:
 
 ### Inicio del servidor
+![Imagen de WhatsApp 2025-06-09 a las 16 10 27_935a9477](https://github.com/user-attachments/assets/d235c7c4-6b86-4fde-978a-88275306fcc7)
 
 
 ### Cliente GUI
